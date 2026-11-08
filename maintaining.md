@@ -1,6 +1,6 @@
-> **Owner:** Hana Kim · **Backup:** не призначено · **Last reviewed:** 2026-11-08
-
 # Як підтримується Brain
+
+> **Owner:** Hana Kim · **Backup:** не призначено · **Last reviewed:** 2026-11-08
 
 ## Хто відповідає за Brain
 
