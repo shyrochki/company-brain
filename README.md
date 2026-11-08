@@ -14,3 +14,5 @@
 | Зрозуміти, як ми працюємо         | docs/company/ways-of-working.md   |
 | Виконати покрокову процедуру      | runbooks/                         |
 | Знайти чи зареєструвати AI-агента | agents/                           |
+| Дізнатись, хто і як підтримує Brain | maintaining.md                  |
+| Знайти чи додати відкрите питання   | open-questions.md               |
