@@ -1,16 +1,22 @@
 # 🧠 The Company Brain
 
-Єдине спільне джерело правди для всього, що знає команда.
+The single shared source of truth for everything the team knows.
 
-Якщо комусь довелось би питати колегу, щоб щось дізнатись — це має бути записано тут. Мета проста: ніхто не повинен бути єдиною точкою відмови, і жодне знання не повинно жити лише в чиїйсь голові, одному Slack-треді чи одному Google Docs.
+If someone would have to ask a colleague to find something out — it should be written down here. The goal is simple: nobody should be a single point of failure, and no knowledge should live only in someone's head, one Slack thread or one Google Doc.
 
-Цей "мозок" — docs-as-code: звичайний Markdown, версіонований у Git, з рев'ю через Pull Request, читабельний і людьми, і AI-агентами. Інші інструменти (Slack, Notion, Drive, Gmail) живлять цей репозиторій — саме він є джерелом правди.
+This "brain" is docs-as-code: plain Markdown, versioned in Git, reviewed through Pull Requests, readable by both humans and AI agents. Other tools (Slack, Notion, Drive, Gmail) feed this repository — it is the source of truth.
 
 ## 🚦 Start here
 
-| Хочу...                           | Йти в...                          |
+| I want to...                      | Go to...                          |
 |-----------------------------------|-----------------------------------|
-| Отримати доступ вперше            | посилання на онбординг            |
-| Зрозуміти, як ми працюємо         | docs/company/ways-of-working.md   |
-| Виконати покрокову процедуру      | runbooks/                         |
-| Знайти чи зареєструвати AI-агента | agents/                           |
+| Get access for the first time     | docs/team.md (Onboarding new hires) |
+| Find out who is responsible for what | docs/team.md                   |
+| Find a tool and its admin         | docs/tools.md                     |
+| Onboard a new customer            | docs/runbooks/customer-onboarding.md |
+| Handle an inbound lead            | docs/runbooks/inbound-lead.md     |
+| Escalate a support request        | docs/runbooks/support-escalation.md |
+| Find or register an AI agent      | docs/agents/                      |
+| Learn the team rules              | docs/team-rules/                  |
+| Find out who maintains the Brain and how | maintaining.md             |
+| Find or add an open question      | open-questions.md                 |
