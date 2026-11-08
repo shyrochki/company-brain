@@ -13,10 +13,9 @@ Other tools (Slack, Notion, Drive, Gmail) feed this repository, but it is the so
 - `docs/about-company.md` — company, product, positioning
 - `docs/team.md` — roles, responsibilities, onboarding new hires
 - `docs/tools.md` — tools and admins (credentials are in 1Password)
-- `docs/runbooks/` — step-by-step procedures: customer-onboarding, inbound-lead, support-escalation, billing, releases, hiring
+- `docs/runbooks/` — step-by-step procedures: customer-onboarding, inbound-lead, support-escalation
 - `docs/agents/` — registry of AI agents and automations
-- `docs/team-rules/` — team rules: decisions, questions, customer-data, passwords, friday, language, claude
-- `docs/info/` — reference information: out-of-office, kaffee-nord
+- `docs/team-rules/` — team rules: decisions, customer-data, passwords, friday, language
 - `README.md` — what this is, how it is organized, who is responsible for what
 - `CONTRIBUTING.md` — hard rules and how to make changes
 - `maintaining.md` — who maintains the Brain and how it stays up to date

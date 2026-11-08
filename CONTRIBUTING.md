@@ -27,4 +27,4 @@ These rules are the same for humans and AI agents.
 
 ## Exceptions
 
-- `docs/team.md` and `docs/runbooks/hiring.md` — a PR is required, owner approval is not.
+- `docs/team.md` — a PR is required, owner approval is not.
