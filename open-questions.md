@@ -1,4 +1,4 @@
-> **Owner:** Hana Kim · **Backup:** не призначено · **Last reviewed:** 2026-11-08
+> **Owner:** Oleksandra Riabtseva · **Backup:** не призначено · **Last reviewed:** 2026-11-08
 
 # Відкриті питання
 
