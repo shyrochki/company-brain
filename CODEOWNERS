@@ -7,6 +7,10 @@
 # За замовчуванням: усі шляхи, зокрема сторінки з "Owner: не призначено".
 *    @shyrochki
 
+# docs/about-company.md — Owner: Oleksandra Riabtseva (заплановано: Mara Voss).
+# GitHub-логін Mara Voss ще невідомий (див. open-questions.md).
+/docs/about-company.md    @shyrochki
+
 # Сторінки, якими володіє вся команда: PR потрібен, погодження власника ні.
 # Шаблони навмисно без власника.
 /docs/team.md
