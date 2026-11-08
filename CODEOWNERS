@@ -1,20 +1,47 @@
-# Це демо-репозиторій, тому всі файли належать @shyrochki.
-# Заплановані власники вказані в заголовку кожної сторінки (Owner/Backup).
+# This is a demo repository, so all files belong to @shyrochki.
+# Planned owners are listed in the header of each page (Owner/Backup).
 #
-# У CODEOWNERS діє останнє правило, що збігається з шляхом,
-# тому блок без власника має йти після рядка за замовчуванням.
+# In CODEOWNERS the last rule matching a path wins,
+# so the block without an owner must come after the default line.
 
-# За замовчуванням: усі шляхи, зокрема сторінки з "Owner: не призначено".
+# Default: all paths, including pages with "Owner: unassigned".
 *    @shyrochki
 
-# docs/about-company.md — Owner: Oleksandra Riabtseva (заплановано: Mara Voss).
-# GitHub-логін Mara Voss ще невідомий (див. open-questions.md).
+# GLOSSARY.md — Owner: Oleksandra Riabtseva.
+/GLOSSARY.md    @shyrochki
+
+# docs/about-company.md — Owner: Oleksandra Riabtseva (planned: Mara Voss).
+# Mara Voss's GitHub login is not known yet (see open-questions.md).
 /docs/about-company.md    @shyrochki
 
 # docs/tools.md — Owner: Oleksandra Riabtseva.
 /docs/tools.md    @shyrochki
 
-# Сторінки, якими володіє вся команда: PR потрібен, погодження власника ні.
-# Шаблони навмисно без власника.
+# docs/runbooks/customer-onboarding.md — Owner: Oleksandra Riabtseva (planned: Lukas Weber).
+/docs/runbooks/customer-onboarding.md    @shyrochki
+
+# docs/runbooks/inbound-lead.md — Owner: Oleksandra Riabtseva (planned: Priya Raman).
+/docs/runbooks/inbound-lead.md    @shyrochki
+
+# docs/runbooks/support-escalation.md — Owner: Oleksandra Riabtseva (planned: Jonas Berg).
+/docs/runbooks/support-escalation.md    @shyrochki
+
+# docs/agents/support-drafts.md — Owner: Oleksandra Riabtseva.
+/docs/agents/support-drafts.md    @shyrochki
+
+# docs/team-rules/decisions.md — Owner: Oleksandra Riabtseva (planned: Mara Voss).
+/docs/team-rules/decisions.md    @shyrochki
+
+# docs/team-rules/customer-data.md — Owner: Oleksandra Riabtseva (planned: Hana Kim).
+/docs/team-rules/customer-data.md    @shyrochki
+
+# docs/team-rules/passwords.md — Owner: Oleksandra Riabtseva (planned: Hana Kim).
+/docs/team-rules/passwords.md    @shyrochki
+
+# docs/team-rules/friday.md — Owner: Oleksandra Riabtseva (planned: Ivan Petrenko).
+/docs/team-rules/friday.md    @shyrochki
+
+# Team-owned pages: a PR is required, owner approval is not.
+# Patterns intentionally without an owner.
 /docs/team.md
 /docs/runbooks/hiring.md

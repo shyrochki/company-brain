@@ -1,18 +1,18 @@
-# Інструменти
+# Tools
 
-> **Owner:** Oleksandra Riabtseva · **Backup:** не призначено · **Last reviewed:** 2026-11-08
+> **Owner:** Oleksandra Riabtseva · **Backup:** unassigned · **Last reviewed:** 2026-11-08
 
-| Інструмент | Для чого | Адмін | Примітки |
+| Tool | What for | Admin | Notes |
 |------------|----------|-------|----------|
-| Slack | Основний канал для всього | _Буде заповнено._ | Більшість рішень ухвалюється в тредах і більше ніде не записується. |
-| Notion | _Буде заповнено._ | _Буде заповнено._ | Близько 60 сторінок, більшість написані в перші пів року і з того часу не оновлювались. |
-| HubSpot | CRM і воронка продажів | _Буде заповнено._ | |
-| Linear | Інженерні тікети | _Буде заповнено._ | |
-| Intercom | Вхідні звернення в підтримку | _Буде заповнено._ | |
-| Stripe | Білінг і рахунки | _Буде заповнено._ | |
-| Google Workspace | Документи, спільний диск, календарі | _Буде заповнено._ | |
-| Metabase | Дашборди поверх продакшн-бази | _Буде заповнено._ | Команда користується одним спільним read-only логіном; облікові дані — в 1Password. |
-| n8n | Внутрішні автоматизації | _Буде заповнено._ | Інстанс Ivan Petrenko, 6–7 воркфлоу, які ніхто інший не може пояснити. |
-| 1Password | Зберігання секретів | _Буде заповнено._ | Місце, де мають зберігатися всі секрети. |
+| Slack | Main channel for everything | _To be filled._ | Most decisions are made in threads and are not recorded anywhere else. |
+| Notion | _To be filled._ | _To be filled._ | About 60 pages, most written in the first six months and not updated since. |
+| HubSpot | CRM and sales pipeline | _To be filled._ | |
+| Linear | Engineering tickets | _To be filled._ | |
+| Intercom | Inbound support requests | _To be filled._ | |
+| Stripe | Billing and invoices | _To be filled._ | |
+| Google Workspace | Documents, shared drive, calendars | _To be filled._ | |
+| Metabase | Dashboards on top of the production database | _To be filled._ | The team uses one shared read-only login; credentials are in 1Password. |
+| n8n | Internal automations | _To be filled._ | Ivan Petrenko's instance, 6–7 workflows that nobody else can explain. |
+| 1Password | Storing secrets | _To be filled._ | The place where all secrets should be stored. |
 
-Облікові дані ніколи не записуються тут — вони в 1Password.
+Credentials are never recorded here — they are in 1Password.

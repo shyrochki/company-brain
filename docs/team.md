@@ -1,49 +1,49 @@
-# Команда Fernway
+# The Fernway team
 
-> **Owner:** не призначено (сторінка всієї команди) · **Backup:** не призначено · **Last reviewed:** 2026-11-08
+> **Owner:** unassigned (team-owned page) · **Backup:** unassigned · **Last reviewed:** 2026-11-08
 >
-> Сторінку може оновлювати будь-хто через PR, погодження власника не потрібне.
+> Anyone can update this page through a PR; owner approval is not required.
 
-Fernway — це 15 людей плюс підрядники.
+Fernway is 15 people plus contractors.
 
-## Засновники
+## Founders
 
-- **Mara Voss** — CEO, співзасновниця. Фандрейзинг, ціноутворення, топ-5 акаунтів. Усі цінові винятки проходять через неї (відомий bottleneck).
-- **Ivan Petrenko** — CTO, співзасновник. Продукт і розробка. Сам побудував усі внутрішні автоматизації у власному інстансі n8n.
+- **Mara Voss** — CEO, co-founder. Fundraising, pricing, top 5 accounts. All pricing exceptions go through her (a known bottleneck).
+- **Ivan Petrenko** — CTO, co-founder. Product and engineering. Built all internal automations himself in his own n8n instance.
 
-## Розробка
+## Engineering
 
-4 людини, включно з Ivan Petrenko.
+4 people, including Ivan Petrenko.
 
-- **Noor Haddad** — backend lead, черговий з продакшн-інцидентів.
+- **Noor Haddad** — backend lead, on call for production incidents.
 - **Tom Bäcker** — frontend.
-- **Ana Silva** — 50/50 QA і технічна підтримка.
+- **Ana Silva** — 50/50 QA and technical support.
 
 ## Go-to-market
 
-5 людей.
+5 people.
 
 - **Sofia Marchetti** — Head of Sales.
-- **Daniel Okafor** — Account Executive, проводить демо.
-- **Priya Raman** — SDR, outbound і кваліфікація вхідних лідів.
-- **Lukas Weber** — Customer Success, відповідає за онбординг від початку до кінця.
-- **Emma Doyle** — маркетинг, підрядниця на part-time, 2 дні на тиждень.
+- **Daniel Okafor** — Account Executive, runs demos.
+- **Priya Raman** — SDR, outbound and qualification of inbound leads.
+- **Lukas Weber** — Customer Success, owns onboarding end to end.
+- **Emma Doyle** — marketing, part-time contractor, 2 days a week.
 
-## Операції
+## Operations
 
-3 позиції.
+3 positions.
 
-- **Hana Kim** — Ops lead: білінг, рахунки, акаунти постачальників, адмін інструментів.
-- **Jonas Berg** — агент підтримки, перша лінія.
-- **Head of People** — відкрита вакансія, не закрита з березня.
+- **Hana Kim** — Ops lead: billing, invoices, vendor accounts, tool admin.
+- **Jonas Berg** — support agent, first line.
+- **Head of People** — open vacancy, unfilled since March.
 
-## Зовнішні партнери
+## External partners
 
-- Бухгалтерська фірма в Берліні.
-- Дизайнер-фрилансер під проєкти.
+- An accounting firm in Berlin.
+- A freelance designer for projects.
 
-## Онбординг новачків
+## Onboarding new hires
 
-Формального процесу немає: новачка проводить той, хто має час цього тижня.
+There is no formal process: a new hire is onboarded by whoever has time that week.
 
-За чеклістом у Notion новачок отримує всі акаунти в перший день, але на практиці більшість чекає до другого тижня.
+According to the checklist in Notion, a new hire gets all accounts on the first day, but in practice most wait until the second week.

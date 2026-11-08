@@ -1,41 +1,41 @@
-# Fernway: компанія, продукт і позиціонування
+# Fernway: company, product and positioning
 
-> **Owner:** Oleksandra Riabtseva (заплановано: Mara Voss) · **Backup:** не призначено · **Last reviewed:** 2026-11-08
+> **Owner:** Oleksandra Riabtseva (planned: Mara Voss) · **Backup:** unassigned · **Last reviewed:** 2026-11-08
 
-## Компанія
+## Company
 
-- **Модель:** remote-first B2B SaaS.
-- **Заснована:** 2024.
-- **Реєстрація:** Берлін.
-- **Команда:** 15 людей плюс підрядники, розподілені по п'яти країнах.
-- **Стадія:** seed-раунд, залучений на початку 2025 року.
+- **Model:** remote-first B2B SaaS.
+- **Founded:** 2024.
+- **Registered:** Berlin.
+- **Team:** 15 people plus contractors, spread across five countries.
+- **Stage:** seed round, raised in early 2025.
 
-## Продукт: Fernway Shifts
+## Product: Fernway Shifts
 
-Планування змін і прогнозування витрат на персонал для незалежних груп кафе та ресторанів, у яких від 3 до 20 закладів.
+Shift scheduling and labor cost forecasting for independent café and restaurant groups with 3 to 20 venues.
 
-Як це працює:
+How it works:
 
-1. Менеджер складає графік змін.
-2. Інструмент перевіряє графік на відповідність місцевим правилам щодо перерв і понаднормової роботи.
-3. До публікації графіка на тиждень інструмент прогнозує фонд оплати праці.
+1. A manager builds a shift schedule.
+2. The tool checks the schedule against local rules on breaks and overtime.
+3. Before the weekly schedule is published, the tool forecasts the payroll.
 
-## Клієнти
+## Customers
 
-- **Акаунти:** ~40.
-- **Платні заклади:** ~140.
-- **Ринки:** Німеччина, Нідерланди, Ірландія.
+- **Accounts:** ~40.
+- **Paid venues:** ~140.
+- **Markets:** Germany, the Netherlands, Ireland.
 
-## Ціноутворення
+## Pricing
 
-- **Базова ціна:** €39 за заклад на місяць.
-- **Річна передоплата:** знижка 15%.
-- **Будь-яка ціна нижча за це** — рішення CEO.
+- **Base price:** €39 per venue per month.
+- **Annual prepayment:** 15% discount.
+- **Any price below this** — CEO decision.
 
-## Чому клієнти обирають Fernway
+## Why customers choose Fernway
 
-Конкуренти створені для великих корпоративних мереж, і їхнє налаштування займає тижні. Fernway обіцяє, що заклад запрацює в системі менш ніж за день.
+Competitors are built for large enterprise chains, and setting them up takes weeks. Fernway promises that a venue will be up and running in the system in less than a day.
 
-Швидкість онбордингу — це і є все позиціонування.
+Onboarding speed is the entire positioning.
 
-**T2L** (time to live) — час від підписання контракту до публікації першого графіка змін. Зазвичай 1–3 дні. Це головна метрика онбордингу Fernway.
+**T2L** (time to live) — the time from contract signing to publishing the first shift schedule. Usually 1–3 days. This is Fernway's main onboarding metric.
